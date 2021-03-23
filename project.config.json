@@ -39,6 +39,7 @@
   "appid": "wxc3a83f2de8f0b379",
   "projectname": "music",
   "libVersion": "2.14.1",
+  "cloudfunctionTemplateRoot": "cloudfunctionTemplate",
   "condition": {
     "search": {
       "list": []
